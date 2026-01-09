@@ -209,3 +209,63 @@ body{
     font-size: 14px;
     color: #888;
 }
+footer {
+   width: auto;
+    height: 348px;
+    background-color:  #001931;
+   
+}
+
+.footer-box {
+    padding-top: 100PX;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1221PX;
+    align-items: center;
+    
+}
+.footer-text p {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.social-icons {
+    display: flex;
+    gap: 15px;
+    justify-content: flex-end;
+}
+
+.social-icons i {
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.1);
+    width: 15px;
+    height: 15px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.3s ease;
+    align-items: center;
+    color:  #ffffff;
+}
+
+.social-icons i:hover {
+    background-color: blue;
+}
+hr{
+    width: 1360px;
+    opacity: 0.2;
+    margin: 40px 0PX 20px 0px;
+    margin: 0 auto;
+    margin-top: 100px;
+    
+}
+.footer-bottom {
+    text-align: center;
+    margin-top: 20PX;
+}
+
+.footer-bottom p {
+    font-size: 16px;
+    color: #FAFAFA;
+}
