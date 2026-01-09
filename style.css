@@ -10,9 +10,6 @@ body{
     justify-content: space-around;
     margin-top: 16px;
 }
-.header-img img{
-   
-}
 .text1 ul{
     display: flex;
     gap: 32px;
@@ -35,9 +32,6 @@ body{
     background-color: #30B868;
     border: none;
 }
-.top-bar button:hover{
-
-}
 #hero-baner{
     background: url("assets/hero-bg.png");
     background-size: cover;
@@ -47,18 +41,6 @@ body{
     
    
 }
-.baner-text  {
-    
-   
-    
-     
-}
-.btn{
-    width: ;
-
-}
-
-
 .continar h1{
     font-size: 48px;
     font-weight: 700;
