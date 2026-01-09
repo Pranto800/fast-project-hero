@@ -34,21 +34,9 @@ body{
     font-weight: 600;
     font-size: 18px;
     gap: 10px;
+    border: none;
 }
 
-.cta-button2 {
-    display: inline-flex;
-    align-items: center;
-    background-color: #30B868;
-    color: white;
-    padding: 12px 30px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: 600;
-    font-size: 18px;
-    gap: 10px;
-  
-}
 .baner {
     padding: 80px 20px;
     background-color: #fcfcfc; 
