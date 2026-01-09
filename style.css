@@ -35,6 +35,7 @@ body{
     font-size: 18px;
     gap: 10px;
 }
+
 .cta-button2 {
     display: inline-flex;
     align-items: center;
@@ -76,7 +77,7 @@ body{
     background-color: #fcfcfc;
     border-radius: 100px;
     margin-top: 180px;
-    margin-left:200px ;
+    margin-left:270px ;
 }
 .baner-text h2{
     color: #30B868;
@@ -102,6 +103,7 @@ body{
 .text-pri{
     color: #ffffff;
     font-size: 18px;
+    margin-bottom: 50px;
 }
 
 .text1 ul{
