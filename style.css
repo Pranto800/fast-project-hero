@@ -10,6 +10,100 @@ body{
     justify-content: space-around;
     margin-top: 16px;
 }
+
+.baner h2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 15px;
+}
+.baner-text {
+    font-size: 16px;
+    color: #627382;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+.cta-button1 {
+    display: inline-flex;
+    align-items: center;
+    background-color: #30B868;
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 18px;
+    gap: 10px;
+}
+.cta-button2 {
+    display: inline-flex;
+    align-items: center;
+    background-color: #30B868;
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 18px;
+    gap: 10px;
+  
+}
+.baner {
+    padding: 80px 20px;
+    background-color: #fcfcfc; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 677px;
+    background: url(assets/hero-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cta-button1:hover {
+    background-color: #218838;
+}
+
+.cta-footer-text {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #888;
+}
+.early{
+    width: 229px;
+    height: 26px;
+    background-color: #fcfcfc;
+    border-radius: 100px;
+    margin-top: 180px;
+    margin-left:200px ;
+}
+.baner-text h2{
+    color: #30B868;
+    font-size: 16px;
+}
+.fa-circle-dot{
+    color: #508968;
+    border-radius: 50%;
+}
+.text-not{
+    color: #30B868;
+    font-size: 75px;
+}
+.text-not{
+    color: #30B868;
+    font-size: 75px;
+    
+}
+.cta-description1{
+   color: #ffffff;
+    font-size: 69px;
+}
+.text-pri{
+    color: #ffffff;
+    font-size: 18px;
+}
+
 .text1 ul{
     display: flex;
     gap: 32px;
@@ -203,7 +297,7 @@ footer {
     margin: 0 auto;
     display: flex;
     justify-content: space-evenly;
-    gap: 1221PX;
+    gap: 1000PX;
     align-items: center;
     
 }
@@ -250,4 +344,7 @@ hr{
 .footer-bottom p {
     font-size: 16px;
     color: #FAFAFA;
+}
+.get-button:hover {
+    background-color: #218838;
 }
