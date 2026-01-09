@@ -52,6 +52,7 @@ body{
 }
 .cta-button1:hover {
     background-color: #218838;
+    cursor: pointer;
 }
 
 .cta-footer-text {
@@ -337,4 +338,11 @@ hr{
 }
 .get-button:hover {
     background-color: #218838;
+    cursor: pointer;
+}
+.cta-button{
+    border: none;
+}
+.cta-button:hover{
+    cursor: pointer;
 }
